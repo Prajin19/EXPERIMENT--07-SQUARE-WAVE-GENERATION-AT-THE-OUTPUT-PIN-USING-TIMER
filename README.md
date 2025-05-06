@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52f03bac-e36c-4bbd-aa05-9cb020f4d3fb)# EXPERIMENT  07 : SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
+# EXPERIMENT  07 : SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
 
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
