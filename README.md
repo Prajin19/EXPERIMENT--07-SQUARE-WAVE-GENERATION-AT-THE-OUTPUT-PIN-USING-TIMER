@@ -134,10 +134,10 @@ int main(void)
 ## Output screen shots of proteus  :
  ### FOR PULSE AT 500:
  ![image](https://github.com/user-attachments/assets/73b38aa1-a0e0-493b-8fb3-4c2f34ee1b4d)
-### FOR PULSE AT 600:
-![image](https://github.com/user-attachments/assets/1f8dc0d4-0b25-4d60-9811-f54e5b9d2acb)
 ### FOR PULSE AT 700
 ![image](https://github.com/user-attachments/assets/6f323ec7-b8dd-4f73-b8ae-a50002f9aa74)
+### FOR PULSE AT 900:
+![Screenshot 2025-05-06 155746](https://github.com/user-attachments/assets/6d307840-d060-4016-9a17-5066086836c1)
 
 
  
@@ -148,25 +148,25 @@ int main(void)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 0.34 ms
+TOFF= 0.34 ms
+TOTAL TIME = TON +TOFF = 0.64 ms
+FREQUENCY = 1/(TOTAL TIME) = 1/0.64 = 1562.5 Hertz.
 
 FOR PULSE AT 700
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 0.85 ms
+TOFF= 0.34 ms
+TOTAL TIME =  TON +TOFF = 0.85+0.34 = 1.18 ms
+FREQUENCY = 1/(TOTAL TIME) =  1/1.18 = 847.45 Hertz
 
 
 FOR PULSE AT 900
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+TON = 1.08 ms
+TOFF= 0.12 ms
+TOTAL TIME = TON + TOFF = 1.08+0.12 = 1.2 ms
+FREQUENCY = 1/(TOTAL TIME) =  1/1.2 = 833.33 Hertz
 
 
 ## Result :
